@@ -21,4 +21,4 @@ This is a simple web application for managing passwords, built to help users sec
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/password-manager.git
+   https://github.com/FabianLuca21/Password-Manager.git
